@@ -6,5 +6,7 @@
 
 
 ### 🐱My Github stats:
-![Alejandro's github stats](https://github-readme-stats.vercel.app/api?username=Alejandro-Fernandez-Polo&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandro-Fernandez-Polo&layout=compact&text_color=daf7dc&bg_color=151513)
+<div>
+  <img width=450 height=170 align="center" alt="Alejandro Fernandez Polo" src="https://github-readme-stats.vercel.app/api?username=Alejandro-Fernandez-Polo&theme=algolia&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+  <img align="center" alt="Alejandro Fernandez Polo" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandro-Fernandez-Polo&theme=algolia&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+</div>
